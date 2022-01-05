@@ -1,3 +1,5 @@
+Contributed by Patrick Bowes
+
 # Hey! Let's learn about GitHub commands! 
 
 ## Follow this sequence in order to correctly fork and clone this repository:
